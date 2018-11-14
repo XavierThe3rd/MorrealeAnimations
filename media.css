@@ -1,0 +1,18 @@
+@media (max-width:1445px){
+    
+    .nav-wrap{
+        width:60%;
+    }
+
+    .hidden-navbar{
+        width: 47.4%;
+    }
+}
+
+
+@media (max-width:1185px){
+
+    .navbar, .hidden-navbar{
+        display: none;
+    }
+}
